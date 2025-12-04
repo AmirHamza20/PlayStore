@@ -1,0 +1,272 @@
+[
+  {
+    "image": "https://play-lh.googleusercontent.com/8ZkZy1YvZ8DqRLVQjaxAgq6MqxsVXni4eWh05rq6ArlTc95xJ3Adxpv8uKXuX4nHCQ=s256",
+    "title": "Facebook",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 1,
+    "description": "Connect with friends, share updates, photos, and videos.",
+    "size": 65,
+    "reviews": 145000000,
+    "ratingAvg": 4.1,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1200000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "3 star", "count": 2500000 },
+      { "name": "4 star", "count": 30000000 },
+      { "name": "5 star", "count": 112000000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/LDu6w1Ne8FEhN5osEbcAfZB2K9OQ4tNA5eJpWzRzC9mU-2G2gCOrsG8u12J0VlfCuA=s256",
+    "title": "Instagram",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 2,
+    "description": "Create and share photos, stories, reels and connect with others.",
+    "size": 52,
+    "reviews": 135000000,
+    "ratingAvg": 4.4,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2200000 },
+      { "name": "2 star", "count": 1100000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 38000000 },
+      { "name": "5 star", "count": 98000000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/vJ0h1TKoEtpJRdWcLQ2qPL4lelRlJoeoWT-pgphZuYgHjJkmKV6n8rWI9fEw5xIbd08=s256",
+    "title": "TikTok",
+    "companyName": "TikTok Pte. Ltd.",
+    "id": 3,
+    "description": "Watch and create short videos with music, effects, and filters.",
+    "size": 48,
+    "reviews": 60000000,
+    "ratingAvg": 4.3,
+    "downloads": 3000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1200000 },
+      { "name": "2 star", "count": 900000 },
+      { "name": "3 star", "count": 1600000 },
+      { "name": "4 star", "count": 11000000 },
+      { "name": "5 star", "count": 45000000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/kcOAgF3f3smXEv94HSGvR6YR8FYOue3uSBRhYQst5Uc38vRjtwexG6uV7WwK4RkXMQ=s256",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "id": 4,
+    "description": "Send snaps, message friends, and explore spotlight videos.",
+    "size": 40,
+    "reviews": 32000000,
+    "ratingAvg": 4.1,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 900000 },
+      { "name": "2 star", "count": 700000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 6000000 },
+      { "name": "5 star", "count": 22000000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/Y0e_DqM6tEHwTdV-AHKUZoEorNfa26DTJgwM4eoNfKmCVhObLacSwYfPbb6MZJES2w=s256",
+    "title": "WhatsApp Messenger",
+    "companyName": "WhatsApp LLC",
+    "id": 5,
+    "description": "Fast, secure messaging and calling worldwide.",
+    "size": 38,
+    "reviews": 190000000,
+    "ratingAvg": 4.3,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1300000 },
+      { "name": "2 star", "count": 600000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 24000000 },
+      { "name": "5 star", "count": 162000000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/yZRuVd4eW8U3tZJjtxNFCrVJECXKHaEvv8xWqZkzWjMo1L8o99wXrYVnQ33LqusZzA=s256",
+    "title": "Telegram",
+    "companyName": "Telegram FZ-LLC",
+    "id": 6,
+    "description": "Fast, secure, and cloud-based messaging with advanced features.",
+    "size": 40,
+    "reviews": 12000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 180000 },
+      { "name": "3 star", "count": 560000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 9000000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/hh7vC18m0t-sQk-UZp_wFH7rOY7KrxFokkur_oPxElEwoMK3f3Rp3XIanFkF_jkZLA=s256",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "id": 7,
+    "description": "Stream millions of songs, podcasts, and playlists.",
+    "size": 32,
+    "reviews": 29000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 4500000 },
+      { "name": "5 star", "count": 23000000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/hFvWx9R7GjD6Ziy71BvGCEGvNINYRwLny7xhZC6aSP2s3pSke1PKDZWOSyHvQCULeg=s256",
+    "title": "YouTube",
+    "companyName": "Google LLC",
+    "id": 8,
+    "description": "Watch, upload, and share videos from creators around the world.",
+    "size": 45,
+    "reviews": 145000000,
+    "ratingAvg": 4.5,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1700000 },
+      { "name": "2 star", "count": 900000 },
+      { "name": "3 star", "count": 2400000 },
+      { "name": "4 star", "count": 34000000 },
+      { "name": "5 star", "count": 107000000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/8VHp7r6JpFjXz0dm_tfY9BrQ2iGZ0pniS3pSke1YTay41PcDg-jvWEYeRmtIpMcU1g=s256",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 9,
+    "description": "Navigation, real-time traffic, and local business information.",
+    "size": 37,
+    "reviews": 160000000,
+    "ratingAvg": 4.3,
+    "downloads": 10000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1600000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 46000000 },
+      { "name": "5 star", "count": 106000000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/3aJzFpCWgYd_Or8JhSlzZnl5bQKcVl0k0NwPy6q8fF7n2xMupiDnjHD3gum2VYQzSA=s256",
+    "title": "Twitter (X)",
+    "companyName": "X Corp.",
+    "id": 10,
+    "description": "Follow trending news, tweets, and global conversations.",
+    "size": 34,
+    "reviews": 19000000,
+    "ratingAvg": 3.8,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1600000 },
+      { "name": "2 star", "count": 900000 },
+      { "name": "3 star", "count": 2100000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 10400000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/MGsPZ_rF6rZmCg4zV0bG-pj7XjEoqdjG3nMUe8cmlS4ZKP3uWiLO_S1w34ZVzi56CPE=s256",
+    "title": "LinkedIn",
+    "companyName": "LinkedIn",
+    "id": 11,
+    "description": "Grow your career, connect with professionals, and find jobs.",
+    "size": 42,
+    "reviews": 38000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 800000 },
+      { "name": "4 star", "count": 3600000 },
+      { "name": "5 star", "count": 33000000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/v1xL7PwKExBSP-xVYIC5In42_7NMbAnvM7fqZf2BEu2ee9G-Q0-4RklxKq0z5N1t8A=s256",
+    "title": "Pinterest",
+    "companyName": "Pinterest",
+    "id": 12,
+    "description": "Discover ideas for inspiration, projects, and lifestyle.",
+    "size": 30,
+    "reviews": 14000000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 120000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 2200000 },
+      { "name": "5 star", "count": 11000000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/uXk2srvEzvoCGgdmUnfhBTi-1qfN_8DP9UyxfScGg0TdQsgUufSJNE9FqP4Lxm7f2w=s256",
+    "title": "PUBG Mobile",
+    "companyName": "Tencent Games",
+    "id": 13,
+    "description": "Battle royale game with high-quality graphics and multiplayer mode.",
+    "size": 600,
+    "reviews": 44000000,
+    "ratingAvg": 4.3,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 1600000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 10000000 },
+      { "name": "5 star", "count": 25000000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/jdKJvGqBeRy7pHO7glLa8-7z4uHGlAJajHaA3RMp7pX6mS7HX7cKFy7E6yIcpjNffg=s256",
+    "title": "Clash of Clans",
+    "companyName": "Supercell",
+    "id": 14,
+    "description": "Build your village, train troops, and attack others.",
+    "size": 180,
+    "reviews": 59000000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 600000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 6000000 },
+      { "name": "5 star", "count": 51000000 }
+    ]
+  },
+  {
+    "image": "https://play-lh.googleusercontent.com/NmLBu6p9SNC9l5pq7E8XfGyu-3t4yhNjkZgeIO04VR63vV9A3KwIJPw0hrfKtNnpp2k=s256",
+    "title": "Subway Surfers",
+    "companyName": "SYBO Games",
+    "id": 15,
+    "description": "Run, dodge obstacles, and collect coins in this endless runner game.",
+    "size": 140,
+    "reviews": 38000000,
+    "ratingAvg": 4.4,
+    "downloads": 2000000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 8000000 },
+      { "name": "5 star", "count": 28000000 }
+    ]
+  }
+]
